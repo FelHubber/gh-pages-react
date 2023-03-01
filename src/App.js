@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          My GitHub page running using React!
+          My GitHub page running using React (included ssh key)!
         </p>
         <a
           className="App-link"
